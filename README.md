@@ -1,8 +1,7 @@
 # My Portfolio
 This is My Portfolio hosted by GitHub pages. It's completely developed in pure HTML, CSS, JS, Bootstrap. Simple to use!
-Check it on GitHub pages :https://alimazlumov.github.io/
+Check it on GitHub pages : https://alimazlumov.github.io/
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6433fffa-3b9a-4e6b-8eee-f0a4a8b86024/deploy-status)](https://app.netlify.com/sites/shreyaspatil/deploys)
 
 ---
 ***Feel free to clone and modify repo as you want, but don't forget to add reference to the authors 😊***
@@ -11,7 +10,7 @@ Check it on GitHub pages :https://alimazlumov.github.io/
 
 ## Licence
 ```
-   Copyright 2019 Shreyas Patil
+   Copyright 2019 Ali Mazlumov
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
